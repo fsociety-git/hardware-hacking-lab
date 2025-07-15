@@ -11,7 +11,7 @@ A collection of tools, scripts, and tutorials for hardware hacking, firmware rev
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/hardware-hacking-lab.git
+git clone https://github.com/fsociety-git/hardware-hacking-lab.git
 cd hardware-hacking-lab
 pip install -r requirements.txt
 # Install system deps: sudo apt install binwalk (on Ubuntu)
