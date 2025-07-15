@@ -1,0 +1,2 @@
+binwalk==2.3.4  # Note: Install via pip or system; may require additional setup
+pyserial==3.5
